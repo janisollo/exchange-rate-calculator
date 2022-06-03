@@ -5,6 +5,8 @@ const currencyEl_two = document.getElementById('currency-two');
 const rateEl = document.getElementById('rate');
 const swap = document.getElementById('swap');
 
+// Fetch exchange rates and update the dom
+
 function calculate() {}
 
 calculate();
